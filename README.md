@@ -1,2 +1,2 @@
-# hello-world
-Этот репозиторий предназначен для отработки навыков Github Flow
+hello everyone!
+I'm currently upgrading my team development skills.
